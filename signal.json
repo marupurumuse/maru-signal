@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "issued_at": "2026-11-20T07:10:14+09:00",
-  "valid_until": "2026-11-20T19:10:14+09:00",
-  "mode": "NORMAL",
-  "reason": "初期信号：信号連携の疎通テスト用",
+  "issued_at": "2026-11-20T07:24:35+09:00",
+  "valid_until": "2026-11-20T09:24:35+09:00",
+  "mode": "CAUTION",
+  "reason": "テスト信号：CAUTION切替の確認",
   "issuer": "maru"
 }
